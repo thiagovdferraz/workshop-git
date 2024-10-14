@@ -20,3 +20,7 @@ print("quinta modificação...")
 #git commit --amend: reescreve a ultima mensagem do ultimo commit
 
 # git checkout hash_num: volta paraq o estado daquele momento
+
+# o que é branch
+# Branches são como linhas do tempo paralelas no seu repositório.
+# Elas permitem que você trabalhe em diferentes funcionalidades ou correções de bugs sem afetar a main.
