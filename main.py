@@ -16,3 +16,5 @@ print("segunda alteração...")
 print("terceira alteração...")
 print("quarta modificação...")
 print("quinta modificação...")
+
+#git commit --amend: reescre a ultima mensagem do ultimo commit
