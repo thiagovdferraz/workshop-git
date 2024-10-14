@@ -24,3 +24,7 @@ print("quinta modificação...")
 # o que é branch
 # Branches são como linhas do tempo paralelas no seu repositório.
 # Elas permitem que você trabalhe em diferentes funcionalidades ou correções de bugs sem afetar a main.
+
+# git merge
+# apos realizar alterações em outro branch - task1, como podemos jogar em produção?
+# usamos o git merge ticket-1
