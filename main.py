@@ -28,3 +28,7 @@ print("quinta modificação...")
 # git merge
 # apos realizar alterações em outro branch - task1, como podemos jogar em produção?
 # usamos o git merge ticket-1
+
+# passos
+# git checkout main
+# git merge task-1
