@@ -12,3 +12,5 @@ print("segunda alteração...")
 # git commit -m "mensagem"
 # git log
 # git restore file - volta para o último commit feito
+
+print("terceira alteração...")
