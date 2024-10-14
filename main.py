@@ -32,3 +32,6 @@ print("quinta modificação...")
 # passos
 # git checkout main
 # git merge task-1
+
+# deletar ticket-1, pois nao precisamos mais dele
+# git branch -d ticket-1
