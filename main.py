@@ -18,3 +18,5 @@ print("quarta modificação...")
 print("quinta modificação...")
 
 #git commit --amend: reescreve a ultima mensagem do ultimo commit
+
+# git checkout hash_num: volta paraq o estado daquele momento
